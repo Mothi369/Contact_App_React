@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contact_App_React/static/css/main.fad12a76.css",
+    "main.js": "/Contact_App_React/static/js/main.b37ca03f.js",
+    "static/media/userr.png": "/Contact_App_React/static/media/userr.94b78e6ac5e8b35c30a4.png",
+    "index.html": "/Contact_App_React/index.html",
+    "main.fad12a76.css.map": "/Contact_App_React/static/css/main.fad12a76.css.map",
+    "main.b37ca03f.js.map": "/Contact_App_React/static/js/main.b37ca03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad12a76.css",
+    "static/js/main.b37ca03f.js"
+  ]
+}
